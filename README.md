@@ -1,1 +1,1 @@
-# G8_module2_git_project
+# G8_Svyrydiuk_exam_git_project
